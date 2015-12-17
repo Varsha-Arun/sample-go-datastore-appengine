@@ -2,6 +2,8 @@ language: go
 
 go:
   - 1.2
+  
+build_image: drydock/u12golpls:tip
 
 env:
   global:
